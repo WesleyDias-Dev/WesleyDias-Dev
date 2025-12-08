@@ -14,9 +14,7 @@ I am looking for professional development for my career. I want to achieve my dr
     <a href="https://gamejolt.com/@wienhk">
         <img 
             alt="My gamejolt profile" 
-            src="https://img.shields.io/badge/GameJolt-Profile-purple?logo=gamejolttag&logoColor=white&style=for-the-badge
-            "
-        />
+            src="https://img.shields.io/badge/GAMEJOLT-PROFILE-purple?style=for-the-badge"/>
 </p>
 
 ---

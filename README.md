@@ -55,11 +55,11 @@ I am looking for professional development for my career. I want to achieve my dr
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="Tailwind CSS" 
+    title="Tailwind CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwind/tailwind-original.svg" 
 />
 <img 
     align="left" 

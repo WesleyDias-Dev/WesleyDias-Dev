@@ -3,7 +3,7 @@
 **`FullStack Developer`**
 
 Welcome to my GitHub profile. <br>
-My name is **Wesley Dias dos Santos**, and I am currently studying Systems Analysis and Development here in Brazil, at Unip in Campinas - Swift.
+My name is **Wesley Dias dos Santos**, and I am currently studying Systems Analysis and Development here in Brazil.
 I have many ideas and projects in development, and I am someone who enjoys exploring this area of programming.
 I have worked on games on the Roblox Studio platform for 3 years, using Lua for scripts and Blender/MagicaVoxel to make some models. From time to time, I create some models for a certain special map for a game that is being developed. <br>
 I am looking for professional development for my career. I want to achieve my dreams and help people with what I do, optimize and create websites from scratch together with a competent team.
